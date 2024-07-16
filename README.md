@@ -1,1 +1,1 @@
-# Spam-Classification-Using-CountVec-TFidf-anfd-Word2Vec
+# Spam-Classification-Using-CountVec-TFidf-and-Word2Vec
